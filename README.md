@@ -1,4 +1,5 @@
 ## Vue 2 has reached End of Life
+Hi there
 
 **You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
 
@@ -98,6 +99,11 @@ For questions and support please use [the official forum](https://forum.vuejs.or
 Please make sure to read the [Issue Reporting Checklist](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## Changelog
+
+
+
+
+
 
 Detailed changes for each release are documented in the [release notes](https://github.com/vuejs/vue/releases).
 
